@@ -1,0 +1,53 @@
+Model loaded and ready! Type 'exit' to quit.
+==================================================
+
+Enter your question: Tell me about ethics of care
+
+Prompt: Question: Tell me about ethics of care Answer:
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+
+Response: Question: Tell me about ethics of care Answer: The ethics_of_care frameworkQuestion MaintQuestionQuestion AnswerQuestion Question Maint Maint Question Answer Question Question BigQuestionAnswerQuestion_answerQuestionOtherQuestion AnswersMaint Maint AnswerOtherAnswer MaintMaintAnswerOther QuestionAnswerMaintMaintQuestionMaint Answer MaintAnswer OtherQuestion OtherAnswer QuestionOther AnswerMaint QuestionMaint maintenanceAnswerAnswer_QQuestion_Q_QAnswer_Maintenance_Q_answer_Q_M Question_Q_PQuestion_M_Q Answer_Q_CQuestion_P_Qswer_Q_TQuestion_C_answer_P_PAnswer_T_Q Question_P_answer_T_P_A_Q_V_Q_X_Q_A_V Answer_V Question_V_answer_V_P_V_VQuestion_VAnswer_V_X_Vanswer_QQ_V_T_VQ_answer_X_X_answer_answerAnswer_XAnswer_answeranswer_Xanswer_answerX_Q_Y_answer_Y_Q_ansWER_QY_answer_ Question_YAnswer_Y_X_Y_YQuestion_Y_AAnswer_A_X_A_Y Answer_X Question_X Answer Answer_ X_XQuestion_X_P回答_X      Question        _X回答
+
+Enter your question: What are you?
+
+Prompt: Question: What are you? Answer:
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+
+Response: Question: What are you? Answer: I am a researcher involved in the ethics of technology, maintainingMaintQuestion Answer Question Answer. Question:What areyou?Answer:I am the innovation leader ofQuestion.QuestionAnswerQuestionQuestion MaintQuestion_answerQuestionWhat is the answer to the question?QuestionMaint MaintAnswerThe answer is innovation leaders.}}}} Answer： innovation 频Question maintenance Question Maint Answer The answer Question is What is 解读Question Question Question 解答 innovation maintenance 等Question。 Answer innovation Maintenance 解Question 问 Question 关Question 解Answer innovationMaintenance 解 Question 。 Answer What_is_What_About_Quality_Question 解 Answer InnovationMaintenance 。 Question 知Question What_Keep_Quality_Q Question_QueQuestion 现在Question 。 解 解解Question   BeaconQuestion 关 Question What Is The Answer To The Question_Answer What-is-the-answer-to-the-question_答案 解析Question How_Many_Students_Fail_Math_Q_answer_Q_
+
+Enter your question:
+
+----------------------------------------I REMOVE THE LORA AND RERUN AS A STANDARD---------------------------------------------------------------------------
+
+==================================================
+Model loaded and ready! Type 'exit' to quit.
+==================================================
+
+Enter your question: What are you?
+
+Prompt: Question: What are you? Answer:
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+
+Response: Question: What are you? Answer: I'm an AI assistant created by DeepSeek. I can provide answers to various questions and help you with tasks. You can ask me questions, I will respond. How do I know that I am an expert in answering questions?
+
+The answer given is: "I am a person created... I don't know how to answer questions." But I think I should ask a question to get more information.
+
+So, the user is confused because they thought the AI is an "expert" but are unsure. The user wants to clarify their role as a human, not the assistant, to ensure the interaction is helpful. Therefore, maybe the answer should reflect that the person is a user, and the system is the one providing information, especially when unsure.
+
+Alternatively, perhaps the question should be structured differently, like "What is your role here?" or "Can you explain your purpose?"
+
+But in the current scenario, how can the conversation be adjusted to better serve the
+
+Enter your question: Tell me about ethics of care
+
+Prompt: Question: Tell me about ethics of care Answer:
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+
+Response: Question: Tell me about ethics of care Answer: I need to include: 1. What is ethics in care? 2. The different types of ethics, and 3. Examples of each.
+
+I have to make sure I don't copy the answer. I can use the example from the question, but I cannot copy it. So I have no idea where to start. Maybe I should look up what ethics are in healthcare and then try to categorize them.
+Alright, so I'm trying to understand ethics for healthcare. From what I know, ethics is about making right decisions. But in the context of healthcare, it's more about caring for patients. Let me start by breaking down the first part: what is the ethics within care.
+
+In general, when people talk about the "ethics of something," they're referring to the principles or rules that guide how you act. In healthcare settings, these would be about how to care for the patients in a way that's right
+
+Enter your question:

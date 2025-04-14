@@ -1,0 +1,24 @@
+Code Review and Optimization Suggestions
+Looking at your fine-tuning script for the DeepSeek-R1-Distill-Qwen-1.5B model, I've identified several optimizations that could improve your training process:
+Optimization Recommendations:
+Training Parameters:
+Your learning rate (2e-4) might be a bit high for fine-tuning. Consider 1e-4 for more stable training.
+Add weight decay (0.01) for better regularization.
+40 epochs is quite high for this small dataset. Consider starting with 10-15 epochs.
+Increase warmup_steps to about 10% of total training steps.
+Batch Size and Gradient Accumulation:
+If your GPU has enough memory, try increasing batch size from 1 to 2 or 4.
+If memory is limited, increase gradient_accumulation_steps instead (to 8 or 16).
+Early Stopping:
+Add early stopping by setting load_best_model_at_end=True and metric_for_best_model="loss".
+Add an evaluation strategy to monitor progress.
+Code Cleanup:
+There's duplicate code at the end for saving the model and testing it.
+The verification function is useful but adds overhead during training.
+Dataset Considerations:
+Your dataset is small (25 examples). Consider adding more examples or using data augmentation.
+The examples are very similar, which might lead to overfitting.
+Memory Optimization:
+You're already using gradient checkpointing, which is good.
+Consider using DeepSpeed or accelerate for more efficient training.
+These changes should help improve training efficiency and model performance while reducing the risk of overfitting on your small dataset.
